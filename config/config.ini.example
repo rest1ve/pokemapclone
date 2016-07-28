@@ -1,7 +1,7 @@
 # Authentication settings
-#auth-service:          # ptc (default) or google
-#username:
-#password:
+#auth-service:  ptc        # ptc (default) or google
+#username: rest1ve
+#password: zxasqw 
 
 # Database settings
 #db-type: sqlite        # sqlite (default) or mysql
@@ -11,16 +11,16 @@
 #db-pass:               # required for mysql
 
 # Search settings
-#location:
+#location: Mykonos, Greece
 #no-gyms:               # disables gym scanning (default false)
 #no-pokemon:            # disables pokemon scanning (default false)
 #no-pokestops:          # disables pokestop scanning (default false)
 #num-threads:           # number of search threads (default 1)
 #scan-delay:            # default 5
-#step-limit:            # default 12
+#step-limit: 10            # default 12
 
 # Misc
-#gmaps-key:             # your Google Maps API key
+#gmaps-key: AIzaSyCf7OxLIiXA7-t3EoKuVBjoDK4OsJpLHsE            # your Google Maps API key
 #webhook:               # webhook URL (including http://)
 
 # Webserver settings
